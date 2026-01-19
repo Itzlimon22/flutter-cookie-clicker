@@ -17,6 +17,8 @@ A simple but feature-rich clicker game built with Flutter. The goal is to demons
 
 ## 📸 Screenshots
 *(Take a screenshot of your app running on the emulator and paste it here!)*
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/e5ffab9a-db0c-414a-9c6e-67c8dc8a1bf0" />
+
 
 ## 🚀 How to Run
 1. Clone the repo
