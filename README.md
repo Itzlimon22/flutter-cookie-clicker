@@ -1,16 +1,24 @@
-# my_first_lego_app
+# 🍪 Cookie Empire - Flutter Game
 
-A new Flutter project.
+A simple but feature-rich clicker game built with Flutter. The goal is to demonstrate core mobile development concepts including state management, persistence, and navigation.
 
-## Getting Started
+## 📱 Features
+- **Persistence:** Game progress (score, upgrades) is saved automatically using `shared_preferences`.
+- **Shop System:** Purchase upgrades to increase click power.
+- **Dynamic Theming:** Toggle between Dark Mode and Light Mode.
+- **Interactive Audio:** Custom sound effects on interaction.
+- **Asset Management:** Optimized local image and audio loading.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- **Framework:** Flutter (Dart)
+- **State Management:** StatefulWidget & setState
+- **Local Storage:** Shared Preferences Plugin
+- **Audio:** AudioPlayers Plugin
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+*(Take a screenshot of your app running on the emulator and paste it here!)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run`
